@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  margin-top: 3px;
+  font-family: "Courier";
+  background-color: #f0e6ff;
+  color: rgb(37, 37, 37);
+}
+
+#thankyou {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+h1 {
+  font-size: 25px;
+  margin-top: 10px;
+  text-align: left; /* Align the text to the left */
+  margin-left: 130px; /* Adjust the left margin */
+}
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 40px;
+  text-align: left; /* Align the text to the left */
+  margin-right: 140px; /* Adjust the left margin */
+}
+
+p {
+  text-align: center;
+}
+
+#catt {
+  max-width: 300px; /* Adjust the max-width as needed */
+  height: auto;
+  margin-bottom: 20px; /* Add margin below the image */
+}
